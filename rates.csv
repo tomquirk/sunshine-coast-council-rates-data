@@ -1,0 +1,5 @@
+category,short_description,value_min,value_max,differential_general_rate_cents_in_dollar,minimum_differential_general_rate
+16,"Residential - Not Principal Place of Residence/Multi Dwelling - $0 to $468,000 RV",0,468000,0.4790,1524
+17,"Residential - Not Principal Place of Residence/Multi Dwelling - $468,001 to $560,000 RV",468000,560000,0.4726,2242
+18,"Residential - Not Principal Place of Residence/Multi Dwelling - $560,000 to $835,000 RV",560000,835000,0.4662,2647
+19,"Residential - Not Principal Place of Residence/Multi Dwelling - $835,000 to $468,000 RV",835000,,0.4551,3893
